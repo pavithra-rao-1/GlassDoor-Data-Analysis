@@ -20,3 +20,7 @@ This project involves analyzing scraped job-related data from Glassdoor and perf
 - Plotly
 - Scipy
 - WordCloud
+
+
+
+![image](https://github.com/user-attachments/assets/cf64c803-2314-4ca3-901b-d8b7ad729f75)
